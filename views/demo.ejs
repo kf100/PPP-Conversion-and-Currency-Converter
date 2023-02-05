@@ -7,7 +7,7 @@
     <body>
         <form action="/hello" method="post">
             <label for="country">Source country</label>
-            <select name="country">
+            <select name="Source">
                 <% fdata.forEach(function(d){ %>
                 <option value="<%= d.Country_Name %>"><%= d.Country_Name %></option>
                 <% }) %>
