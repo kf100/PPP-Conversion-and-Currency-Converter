@@ -1,0 +1,23 @@
+.sectionsize{
+    margin:0;
+    padding:2% 2% 2% 2%;
+}
+.onlyconversion{
+    padding-top: 5%;
+}
+.sectioncolor{
+    background-color: #FCF9C6;
+}
+/* .sectioncolorwhite{
+    background-color: white;
+} */
+
+/* .scrollcontainer{
+    overflow: scroll;
+    scroll-snap-type:mandatory;
+    overflow-y: scroll;
+    scroll-padding: 20px;
+}
+.scrollsection{
+    scroll-snap-align: start;
+} */

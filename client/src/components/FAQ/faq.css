@@ -1,0 +1,26 @@
+.images{
+    text-align: center; 
+    margin-top: 10%;
+    margin-left: 15%;
+    /* height:60%; */
+    /* width:40%; */
+    height:110px;
+    width:100px;
+}
+.images2{
+    text-align: center; 
+    margin-top: 10%;
+    margin-left: 15%;
+    /* height:60%; */
+    /* width:50%; */
+    height:110px;
+    width:100px;
+}
+.images3{
+    /* text-align: center;  */
+    margin-top: 10%;
+    /* height:70%; */
+    /* width:95%;     */
+    height:170px;
+    width:270px;
+}

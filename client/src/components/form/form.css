@@ -1,0 +1,32 @@
+select{
+    width: 45%;
+}
+.dynamic{
+    padding: 10% 15% 2% 15%;
+}
+/* td{
+    padding: 40px 50px 20px 50px;
+    padding: 10% 15% 5% 15%;
+} */
+.submit{
+    background-color: #71EFA3;
+    /* background-image: url("./swap.png"); */
+    border: none;
+    border-radius: 7px;
+    color: white;
+    padding: 6px;
+    text-align: center;
+}
+.submit:hover{
+    background-color: white;
+    color: green;
+    transition-duration: 0.5s;
+}
+
+.image_swap{
+    height: 20px;
+    width: 20px;
+    border:solid thin;
+    border-radius: 5px;  
+    /* size: 5%; */
+}

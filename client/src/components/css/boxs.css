@@ -1,0 +1,33 @@
+.bigbox{
+    width: auto;
+    height: auto;
+    margin: 20px auto;
+    border:solid;
+    /* border-color: #C7F2A4; */
+    border-color: #71EFA3;
+    border-width: 10px;
+    border-radius: 20px;
+    /* box-shadow: -10px 15px 10px 5px #B6E388; */
+    box-shadow: -10px 15px 10px 5px #50CB93;
+    /* background-color: #B6E388; */
+    /* overflow: hidden; */
+}
+.backcolorwhite{
+    background-color: white;
+}
+.overflow{
+    overflow:hidden;
+}
+.boxs{
+    padding:35px;   
+}
+.indibox{
+    box-shadow: -5px 6px 20px 2px gray;
+    /* box-shadow: 30% 50% 70% 10% gray;; */
+    border-radius: 20px;
+    
+}
+.text-background{
+    background-image: url('bg-blur.jpg');
+    backdrop-filter: blur(3rem);
+}

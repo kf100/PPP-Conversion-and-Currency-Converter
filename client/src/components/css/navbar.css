@@ -1,0 +1,14 @@
+.navcolor{
+    background-color: #ACFFAD;
+}
+.navborder{
+    /* border-right:solid;
+    border-left: solid;
+    border-bottom: solid; */
+    box-shadow:0px 5px 10px 2px gray ;
+}
+.font{
+    /* font-family: 'Genos', sans-serif; */
+    /* font-family: 'Lobster', cursive; */
+    font-family: 'Rampart One', cursive;
+}
